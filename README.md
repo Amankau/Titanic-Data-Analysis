@@ -1,2 +1,2 @@
 # Titanic-Data-Analysis
-The Data Analysis of the Titanic data set using Python
+A step by step guide to data analysis of the Titanic data set (source:kaggle.com) using Python
