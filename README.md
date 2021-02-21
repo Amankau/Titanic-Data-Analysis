@@ -25,6 +25,7 @@ In order to analyse, you will need to have a basic understanding of the data:
 * Embarked - Embarkment port where **C** is Cherbourg, **S** is Southampton and **Q** is Queenstown
 
 The first step involved in the cleaning of the dataset is to check the number of missing values (read nulls) in each of the column and is done using the **isnull()** function. 
+
 ![isnull](https://user-images.githubusercontent.com/77699950/108626623-66c08c80-7451-11eb-8f20-18f9097ead7e.png)
 
 
