@@ -2,13 +2,13 @@
 A step by step guide to data analysis of the **Titanic** data set (source:[Kaggle](https://www.kaggle.com/)) using Python
 ### The project involves basic exploratory data analysis (EDA) of the Titanic data set and extracting relevant information from different variables.
 #### Contents
-1 Downloading and cleaning the dataset
-2 Analysis and visualization of the data
-3  Storytelling about data findings
+1. Downloading and cleaning the dataset
+2. Analysis and visualization of the data
+3. Storytelling about data findings
 
-1 **Downloading and cleaning the dataset** - Any data analysis project in Python begins with the downloading of necessary libraries nemrly **Pandas**, **Plotly**, **numpy**, **mathplotlib** and **seaborn** to name a few followed by the download and reading of the dataset file as [dataframe](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe) in Python. The resource offers both the training data (**train.csv**) and test data (**test.csv**). In this case we use the train data to draw the inferences for model implementation on test data.
+1 **Downloading and cleaning the dataset** - Any data analysis project in Python begins with the downloading of necessary libraries namely **Pandas**, **Plotly**, **numpy**, **mathplotlib** and **seaborn** to name a few followed by the download and reading of the dataset file as [dataframe](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe) in Python. The data source offers both the training data (**train.csv**) and test data (**test.csv**). In this case we use the train data to draw the inferences for model implementation on test data.
 
-In order to analyse, you will need to have a basic understanding of the data:
+In order to analyse, a basic understanding of the data is important:
 * No of rows  = 891
 * No. of columns = 12
 * PassengerId - A unique identification Id for each passenger
