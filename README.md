@@ -1,10 +1,11 @@
-# Titanic-Data-Analysis
+# Titanic-Data Analysis and Logistic Regression 
 A step by step guide to data analysis of the **Titanic** data set (source:[Kaggle](https://www.kaggle.com/)) using Python
-### The project involves basic exploratory data analysis (EDA) of the Titanic data set and extracting relevant information from different variables.
+### The project involves basic exploratory data analysis (EDA) of the Titanic data set and extracting most relevant information from different variables followed by the implementation of Logistic Regression model from Sklearn
 #### Contents
 1. Downloading and cleaning the dataset
 2. Analysis and visualization of the data
 3. Storytelling about data findings
+4. Model Implementation and accuracy check
 
 1 **Downloading and cleaning the dataset** - Any data analysis project in Python begins with the downloading of necessary libraries namely **Pandas**, **Plotly**, **numpy**, **mathplotlib** and **seaborn** to name a few followed by the download and reading of the dataset file as [dataframe](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe) in Python. The data source offers both the training data (**train.csv**) and test data (**test.csv**). In this case we use the train data to draw the inferences for model implementation on test data.
 
